@@ -7,7 +7,7 @@
    Tout d'abord je m'appelle **Enzo Mancini**, je suis né le **15/05/2003** à **Toulouse** (_Cette ville rose magnifique !_).
    
    <img src="images/toulouse_1.png" width="400">  <img src="images/toulouse_2.png" width="400">
-   
+   (_c'est de toute beauté_)                          (_vraiment magnifique_)
    
    
    
