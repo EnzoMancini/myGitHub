@@ -1,5 +1,4 @@
-# Bienvenu sur ma page GitHub <img src="images/GitHub-Mark-Light-32px.png">
-<h1 align="center">Bienvenu ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Bienvenu sur ma page GitHub <img src="images/GitHub-Mark-Light-32px.png"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
   ### Vous trouverez ici ma présentation ainsi que mon CV et quelques projets de mon portfolio !
   
