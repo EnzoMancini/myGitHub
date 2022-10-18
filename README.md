@@ -47,4 +47,4 @@ Actuellement je suis **étudiant** en seconde année à l'[IUT de Blagnac](https
 ## Mes statistiques GitHub 🔥 &nbsp;
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnzoMancini&theme=dark&border_radius=5&locale=fr)](https://git.io/streak-stats)
-https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMancini&layout=compact&theme=vision-friendly-dark
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMancini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
