@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/enzo-mancini-02b768252/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.instagram.com/enzo_mnc1/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
 </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=EnzoMancini&style=flat-square&color=blue" alt=""></p>
 
 ## Présentation
 
