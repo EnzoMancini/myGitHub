@@ -1,4 +1,5 @@
 # Bienvenu sur ma page GitHub <img src="images/GitHub-Mark-Light-32px.png">
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
   ### Vous trouverez ici ma présentation ainsi que mon CV et quelques projets de mon portfolio !
   
@@ -18,7 +19,7 @@ Tout d'abord je m'appelle **Enzo Mancini**, je suis né le **15/05/2003** à **T
    
 Actuellement je suis **étudiant** en seconde année à l'[IUT de Blagnac](https://www.iut-blagnac.fr/fr) <img src="images/Logo_IUT_Blagnac.png" width="25"> dans sa filière Informatique.
 
-## Language, outils, méthode et système que j'utilise
+## Language, outils, méthode et système que j'utilise 🛠 &nbsp;
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
