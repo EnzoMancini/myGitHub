@@ -42,3 +42,5 @@ Actuellement je suis **étudiant** en seconde année à l'[IUT de Blagnac](https
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" **alt="unix" width="40" height="40"/>&nbsp;
 </p>
+
+## Mes statistiques GitHub 🔥 &nbsp;
