@@ -17,7 +17,7 @@ Tout d'abord je m'appelle **Enzo Mancini**, je suis né le **15/05/2003** à **T
   (<i>c'est de toute beauté</i>....<i>vraiment magnifique</i>)
 </p>
    
-Actuellement je suis **étudiant** en seconde année à l'[IUT de Blagnac](https://www.iut-blagnac.fr/fr) <img src="images/Logo_IUT_Blagnac.png" width="25"> dans sa filière Informatique.
+Actuellement je suis **étudiant** en seconde année à l'[IUT de Blagnac](https://www.iut-blagnac.fr/fr) <img src="images/Logo_IUT_Blagnac.png" width="25"> dans sa filière **Informatique**.
 
 ## Language, outils, méthode et système que j'utilise 🛠 &nbsp;
 
